@@ -183,9 +183,9 @@
 <body>
 
   <!-- ✅ الفيديو هنا صح -->
-  <video autoplay muted loop>
-    <source src="1000.mp4" type="video/mp4">
-  </video>
+  <video autoplay muted loop playsinline>
+  <source src="./1000.mp4" type="video/mp4">
+</video>
 
   <div class="navbar">
     <div class="logo">Ammar</div>
